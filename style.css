@@ -1,0 +1,44 @@
+.jumbotron{
+	background: #414171;
+	color:white;
+	padding: 100px 100px;
+	margin-bottom: 0;
+}
+#email{
+	width: 25%;
+}
+.glyphicon{
+	font-size: 215px;
+}
+.signal{
+/*	padding: 33px 109px;*/
+}
+.container-fluid{
+	padding-top:70px;
+	padding-bottom:70px;
+}
+.glyphicon-globe{
+	font-size: 215px;
+}
+.bg-grey{
+	background: #ccc;
+}
+.text{
+	padding: 0 112px;
+}
+ul{
+	list-style-type: none;
+	line-height: 2.5;
+}
+ul li{
+	margin-left: 68px;
+}
+.footer{
+	padding:50px 20px;
+}
+i{
+	width: 17.5px
+}
+.fab,.fas{
+	margin-right: 5px;
+}
