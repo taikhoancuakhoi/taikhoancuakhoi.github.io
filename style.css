@@ -42,3 +42,11 @@ i{
 .fab,.fas{
 	margin-right: 5px;
 }
+a{
+	text-decoration: none;
+	color: white;
+}
+a:hover{
+	color:white;
+	font-weight: bold;
+}
